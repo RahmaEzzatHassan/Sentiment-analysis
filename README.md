@@ -3,14 +3,16 @@ This Project analyzes the scripts of the famous series Rick & Morty.
 The aim of the project is to provide a sentimental analysis and predict the mood of each character at each sentence.
 -we used SentimentIntensityAnalyzer which is a class in Natural
 Language Toolkit (NLTK) library for Python that is used to analyze
-and determine the sentiment of text data
+and determine the sentiment of text data.
+
 **About Data**
 -our dataset is basically a set of columns each one include a
 specific information in the famous series Rick and Morty as the
 episode name and a line from that episode with the name of the
 character that said it.
 -our aim is to figure the mood of the character based on the lines of
-the series by using sentimental analysis
+the series by using sentimental analysis.
+
 **Preprocessing**
 1\we started cleaning our data and dropping the null and duplicated values.
 2\we ranked the unique values of the name column.
