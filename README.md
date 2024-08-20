@@ -11,7 +11,7 @@ episode name and a line from that episode with the name of the
 character that said it.
 -our aim is to figure the mood of the character based on the lines of
 the series by using sentimental analysis
-#Preprocessing
+**Preprocessing**
 1\we started cleaning our data and dropping the null and duplicated values.
 2\we ranked the unique values of the name column.
 
