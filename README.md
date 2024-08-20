@@ -4,7 +4,7 @@ The aim of the project is to provide a sentimental analysis and predict the mood
 -we used SentimentIntensityAnalyzer which is a class in Natural
 Language Toolkit (NLTK) library for Python that is used to analyze
 and determine the sentiment of text data
-#About Data
+##About Data
 -our dataset is basically a set of columns each one include a
 specific information in the famous series Rick and Morty as the
 episode name and a line from that episode with the name of the
